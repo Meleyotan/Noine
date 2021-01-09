@@ -1,0 +1,28 @@
+@font-face{font-family: madetommmy; src: url(madetommmy.otf);}
+@font-face{font-family: lfl; src: url(lfl.ttf);}
+body{font-family: madetommmy;background:#2c2044 url(hero.jpg) no-repeat;background-position-x: right;background-blend-mode: luminosity;}/*background-blend-mode: luminosity;*/
+div#noine{float: left;margin: 40px;}
+h1#none{font-size: 300%;display: inline;color: white;}
+span.orange{color: #f47;}
+form{text-align: center;padding: 64px 64px 0 64px;}
+h1#title{color: #ffffff;display: inline-block;margin-left: auto;margin-right: 15%;}
+input{border: 1px solid #f47a1d;margin-bottom: 4%; background-color: transparent;border-left: 3px ridge #ffa374;}
+input:enabled{height: 30px;width: 50%;}
+input::placeholder{font-family: lfl;color: #f47;font-weight: lighter;padding-left: 10%;font-size: 180%;}
+input:hover{transform: scale(1.1);}
+input[type=text],input[type=email],input[type=password]{color: aquamarine;font-family: lfl;}
+input:disabled{border:1px solid #454545}
+button#submit{border:none; padding: 10px 40px;box-shadow: inset  0 1px 12px rgba(0,0,0,0.15);
+    background-color: #f47;color:#ffffff;font-size: 120%;
+border-radius: 5px;}
+div#log_in{text-align: center;}
+span#log{margin-left: 5%;font-family: lfl;}
+span a#log_in_link{text-decoration:none;font-size: 160%;color: aquamarine;border: 2px inset #f47;padding: 2px 20px 2px 20px;}
+div#log_in_with{text-align: center;}
+p{display: inline-block;color: #ffffff;}
+img.contact_image{width: 2%;margin-left: .3%;margin-right: .3%;}
+img.contact_image:hover{transform: scale(1.2); transition: all 0.3s ease;}
+div#contact_image{display: inline;vertical-align: middle;}
+p::selection{color: #f47;}
+h3{margin: 40px; color: #f47;margin: 75px 40px;display: inline-block;}
+h1#foot{font-size: 400%;color: white;float:right;margin:40px;}
