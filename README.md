@@ -1,2 +1,2 @@
 # Noine
-Noine is a startup company that I mainly aim at using to know JavaScript, PHP Sessions and Cookies, SQL and majorly improve my backend hol.
+Noine is a startup company that helps you hunt jobs while I mainly aimed at understanding JavaScript, PHP Sessions and Cookies, SQL and majorly improve my backend hold.
