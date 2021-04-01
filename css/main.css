@@ -8,9 +8,9 @@ form{text-align: center;padding: 64px 64px 0 64px;}
 h1#title{color: #ffffff;display: inline-block;margin-left: auto;margin-right: 15%;}
 input{border: 1px solid #f47a1d;margin-bottom: 4%; background-color: transparent;border-left: 3px ridge #ffa374;}
 input:enabled{height: 30px;width: 50%;}
-input::placeholder{font-family: lfl;color: #f47;font-weight: lighter;padding-left: 10%;font-size: 180%;}
+input::placeholder{font-family: lfl;color: white;font-weight: lighter;padding-left: 10%;font-size: 180%;}
 input:hover{transform: scale(1.1);transition: 0.7s ease;}
-input[type=text],input[type=email],input[type=password]{color: aquamarine;font-family: lfl;}
+input[type=text],input[type=email],input[type=password]{color: white;font-family: lfl;}
 input:disabled{border:1px solid #454545}
 button#submit{border:none; padding: 10px 40px;box-shadow: inset  0 1px 12px rgba(0,0,0,0.15);
     background-color: #f47;color:#ffffff;font-size: 120%;
