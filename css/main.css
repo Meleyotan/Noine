@@ -1,6 +1,6 @@
 @font-face{font-family: madetommmy; src: url(madetommmy.otf);}
 @font-face{font-family: lfl; src: url(lfl.ttf);}
-body{font-family: madetommmy;background:#2c2044 url(hero.jpg) no-repeat;background-position-x: right;background-blend-mode: darken;}/*background-blend-mode: luminosity;*/
+body{font-family: madetommmy;background:#2c2044 url(hero.jpg) no-repeat;background-position-x: right;background-blend-mode: lighten;}/*background-blend-mode: luminosity;*/
 div#noine{float: left;margin: 40px;}
 h1#none{font-size: 300%;display: inline;color: white;}
 span.orange{color: #f47;}
